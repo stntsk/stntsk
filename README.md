@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stntsk
-- 👀 I’m interested in learning coding
+- 👀 I’m interested in learning to code
 - 🌱 I’m currently learning web development and then full stack engineer
 - 💞️ I’m looking to collaborate on TBA
 - 📫 How to reach me sten.tuisk@gmail.com
